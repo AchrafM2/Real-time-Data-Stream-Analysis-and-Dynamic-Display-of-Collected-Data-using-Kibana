@@ -9,9 +9,9 @@ from tweepy.streaming import StreamListener
 
 #twitterAPI
 key= "cAOnn79TEwO6U5A54vHJ8FBLA"
-key_secret="qZlbtrIBmT66a3DD6tfsoFXhgZmJHIeGqRF6jeCiv4DdpeHsAe"
-access_token="1506775653923840002-je8MepECvfpCcP2kabdhpJInb8qTYp"
-acess_secret= "apgHvys0y32rPax7QWpuyGpsWeIOJlvf2alm0S3IBM4Uu"
+key_secret="qZlbtrIBmT66a3DD6tfsoF*****IeGqRF6jeCiv4DdpeHsAe"
+access_token="1506775653923840002-j*****CvfpCcP2kabdhpJInb8qTYp"
+acess_secret= "apgHvys0y32rPax7*********IOJlvf2alm0S3IBM4Uu"
 
 
 #kafka producer setting
